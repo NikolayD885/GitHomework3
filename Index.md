@@ -57,3 +57,7 @@ git status
 ## Остальную информацию по Git можно посмотреть по ссылке
 
 **[Шпаргалка по Git](https://training.github.com/downloads/ru/github-git-cheat-sheet/)**
+
+> *Интелект - это способность избегать выполнения работы, но так, чтобы она при этом была сделана*
+
+                              (C) Linus Torvalds
