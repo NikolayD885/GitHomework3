@@ -54,3 +54,6 @@ git reset --hard (идентификатор коммита)
 ```
 git status
 ```
+## Остальную информацию по Git можно посмотреть по ссылке
+
+**[Шпаргалка по Git](https://training.github.com/downloads/ru/github-git-cheat-sheet/)**
