@@ -54,6 +54,12 @@ git reset --hard (идентификатор коммита)
 ```
 git status
 ```
+## Просмотр лога коммитов
+
+Для просмотра лога коммитов, нужно ввести команду
+```
+git log --graph --all
+```
 ## Остальную информацию по Git можно посмотреть по ссылке
 
 **[Шпаргалка по Git](https://training.github.com/downloads/ru/github-git-cheat-sheet/)**
