@@ -54,6 +54,12 @@ git reset --hard (идентификатор коммита)
 ```
 git status
 ```
+## Создание ветки
+
+Для создания ветки, нужно ввести команду
+```
+git branch (имя ветки)
+```
 ## Остальную информацию по Git можно посмотреть по ссылке
 
 **[Шпаргалка по Git](https://training.github.com/downloads/ru/github-git-cheat-sheet/)**
