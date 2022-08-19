@@ -83,6 +83,12 @@ git merge (имя ветки)
 ```
 git clone (repository_url)
 ```
+## Обновление текущей ветки
+
+Для обновления текущей ветки, нужно ввести команду
+```
+git pull
+```
 ## Остальную информацию по Git можно посмотреть по ссылке
 
 **[Шпаргалка по Git](https://training.github.com/downloads/ru/github-git-cheat-sheet/)**
