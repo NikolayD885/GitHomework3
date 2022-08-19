@@ -101,7 +101,12 @@ git push
 ```
 git log --graph --all
 ```
+## Загрузка изменений из всех веток
 
+Для загрузки изменений из всех веток, нужно ввести команду
+```
+git fetch
+```
 ## Остальную информацию по Git можно посмотреть по ссылке
 
 **[Шпаргалка по Git](https://training.github.com/downloads/ru/github-git-cheat-sheet/)**
