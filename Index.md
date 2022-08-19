@@ -89,6 +89,12 @@ git clone (repository_url)
 ```
 git pull
 ```
+## Отправка изменения в удаленны репозиторий
+
+Для отправки изменения в удаленный репозиторий, нужно ввести команду
+```
+git push
+```
 ## Остальную информацию по Git можно посмотреть по ссылке
 
 **[Шпаргалка по Git](https://training.github.com/downloads/ru/github-git-cheat-sheet/)**
