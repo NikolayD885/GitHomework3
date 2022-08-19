@@ -78,6 +78,11 @@ git brunch -d (имя ветки)
 ```
 git merge (имя ветки)
 ```
+## Клонирование репозитория
+Для клонирования репозитория нужно ввести команду
+```
+git clone (repository_url)
+```
 ## Остальную информацию по Git можно посмотреть по ссылке
 
 **[Шпаргалка по Git](https://training.github.com/downloads/ru/github-git-cheat-sheet/)**
