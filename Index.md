@@ -95,6 +95,13 @@ git pull
 ```
 git push
 ```
+## Просмотр лога репозитория
+
+Для просмотра лога репозитория, нужно ввести команду
+```
+git log --graph --all
+```
+
 ## Остальную информацию по Git можно посмотреть по ссылке
 
 **[Шпаргалка по Git](https://training.github.com/downloads/ru/github-git-cheat-sheet/)**
